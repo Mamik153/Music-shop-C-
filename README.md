@@ -1,1 +1,2 @@
-# Music-shop-C-
+# Music-shop-C++
+# Mini Project with limited functionalities
